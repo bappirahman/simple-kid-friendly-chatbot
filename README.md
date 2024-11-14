@@ -4,7 +4,7 @@ This is a simple chatbot that uses the [LangChain](https://langchain.readthedocs
 
 ## Live Demo
 
-You can check out the live demo of this project at [Live Q&A Chatbot](https://qanda.streamlit.app/)
+You can check out the live demo of this project at [Live Q&A Chatbot](https://kidchat.streamlit.app/)
 
 ## Installation
 

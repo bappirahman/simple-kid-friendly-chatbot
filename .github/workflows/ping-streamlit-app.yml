@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Ping Streamlit App
         run: |
-          curl -s https://qanda.streamlit.app/ > /dev/null
+          curl -s https://kidchat.streamlit.app/ > /dev/null
